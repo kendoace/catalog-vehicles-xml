@@ -1,11 +1,13 @@
 <?php
-/**
- * Plugin Name: Catalog Vehicles
- * Description: A simple plugin to export 'Buy Here Pay Here' custom post type as XML.
- * Version: 1.0
- * Author: Aleksandar Petreski
- */
-
+/*
+    Plugin Name: Catalog Vehicles
+    Plugin URI: https://github.com/kendoace/
+    GitHub Plugin URI: kendoace/vin-vehicle-import/
+    Description: A simple plugin to export 'Buy Here Pay Here' custom post type as XML.
+    Version: 1.0
+    Author: Aleksandar Petreski
+    Author URI: https://www.linkedin.com/in/aleksandar-petreski/
+*/
 
 // Hook to add admin menu
 function export_bhph_cpt_menu() {
