@@ -1,7 +1,7 @@
 <?php
 /*
     Plugin Name: Catalog Vehicles
-    Plugin URI: https://github.com/kendoace/
+    Plugin URI: https://github.com/kendoace/catalog-vehicles-xml
     GitHub Plugin URI: kendoace/vin-vehicle-import/
     Description: A simple plugin to export 'Buy Here Pay Here' custom post type as XML.
     Version: 1.0
